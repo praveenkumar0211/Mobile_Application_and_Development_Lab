@@ -1,1 +1,3 @@
 
+in java:import com.fathzer.soft.javaluator.DoubleEvaluator;
+implementation 'com.fathzer:javaluator:3.0.3'
