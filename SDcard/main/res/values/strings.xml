@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SDcard</string>
+
+    <string name="file_name">File name :</string>
+    <string name="read">Read</string>
+    <string name="write">Write</string>
+    <string name="content">Content :</string>
+</resources>
